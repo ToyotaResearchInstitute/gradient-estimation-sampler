@@ -1,0 +1,16 @@
+.dropbox
+.ipynb_checkpoints
+*~
+__pycache__
+
+/env
+/experiments/fid/*
+!/experiments/fid/readme.txt
+/experiments/models/*
+!/experiments/models/readme.txt
+/experiments/images
+/experiments/figures
+/experiments/results
+/experiments/env
+/experiments/cifar
+/experiments/tmp
